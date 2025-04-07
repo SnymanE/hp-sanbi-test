@@ -18,6 +18,8 @@ SANBI-GBIF aim to promote the sharing of data and information under a common set
 *1.	Accessibility and Convenience:*
 A virtual herbarium allows easy access to plant specimen data and images from anywhere in the world. Researchers, students, and the general public can explore and study specimens without needing to travel to physical locations. 
 
+![**Data From South Africa**](/assets/images/HeatMap2022-V2.jpg)
+
 *2.	Preservation and Sustainability:*
 Plant specimens can be digitized and stored in a virtual format, ensuring that valuable data is preserved in case of physical deterioration or loss. This also reduces the need for handling delicate specimens, helping with long-term conservation. Reduced handling of material as images will be used for transcribing of label information from images into the institutional database and for quality control purposes.
 
