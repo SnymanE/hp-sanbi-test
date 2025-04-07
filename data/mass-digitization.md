@@ -18,15 +18,18 @@ SANBI-GBIF aim to promote the sharing of data and information under a common set
 *1.	Accessibility and Convenience:*
 A virtual herbarium allows easy access to plant specimen data and images from anywhere in the world. Researchers, students, and the general public can explore and study specimens without needing to travel to physical locations. 
 
-![**Introduction 1**](/assets/images/Intro 1.JPG)
+![**Process**](/assets/images/Process 1.jpg)
+
 
 *2.	Preservation and Sustainability:*
 Plant specimens can be digitized and stored in a virtual format, ensuring that valuable data is preserved in case of physical deterioration or loss. This also reduces the need for handling delicate specimens, helping with long-term conservation. Reduced handling of material as images will be used for transcribing of label information from images into the institutional database and for quality control purposes.
 
-![**Introduction 2**](/assets/images/Intro 2.JPG)
+![**Process**](/assets/images/Process 2.jpg)
 
 *3.	Collaboration and Sharing:*
 Researchers from around the globe can collaborate more easily by sharing digital specimens and data. This promotes the exchange of information and can accelerate scientific discoveries, particularly in areas like taxonomy and ecology.
+
+![**Introduction**](/assets/images/Intro 2.JPG)
 
 *4.	Efficient Data Storage and Organization:*
 Virtual herbaria enable better organization and sorting of plant specimens by categories such as species, location, collection date, and other metadata. This makes it much easier to search, sort, and analyse data compared to physical herbariums.
@@ -45,5 +48,8 @@ In case of natural disasters (fires, floods, etc.) or other events that might da
 
 *9.	Public Awareness and Engagement:*
 Digital herbariums can help raise awareness about plant conservation and biodiversity. Interactive platforms can engage the public in citizen science projects, encouraging people to document local flora or report sightings, further enriching the database.
+
+![**Introduction**](/assets/images/Intro 1.JPG)
+
 
 **Overall, virtual herbaria help foster a more connected, efficient, and sustainable approach to botanical research, education, and conservation.**
